@@ -10,7 +10,7 @@
     - [x] Array implementation
     - [x] Linked-List implementation
 - [ ] Queue
-    - [ ] Array implementation
+    - [x] Array implementation
     - [ ] Linked-List implementation
 - [ ] Tree
     - [ ] Binary search tree

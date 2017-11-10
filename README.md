@@ -8,7 +8,7 @@
 - [x] Linked-List
 - [x] Stack
     - [x] Array implementation
-   - [x] Linked-List implementation
+    - [ ] Linked-List implementation
 - [ ] Queue
     - [ ] Array implementation
     - [ ] Linked-List implementation

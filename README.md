@@ -12,9 +12,9 @@
 - [ ] Queue
     - [x] Array implementation
     - [ ] Linked-List implementation
-- [ ] Tree
-    - [ ] Binary search tree
-    - [ ] Tree traversal
+- [x] Tree
+    - [x] Binary search tree
+    - [x] Tree traversal
 - [ ] Graph
     - [ ] Graph traversal (DFS, BFS)
     - [ ] Minimum spanning tree
@@ -23,10 +23,10 @@
         - [ ] Borůvka's Algorithm
     - [ ] Dijkstra's Shortest Path
 - [ ] Sort
-    - [ ] Bubble sort
+    - [x] Bubble sort
     - [ ] Selection Sort
-    - [ ] Insertion Sort
-    - [ ] Quck Sort
-    - [ ] Merge Sort
+    - [x] Insertion Sort
+    - [x] Quck Sort
+    - [x] Merge Sort
     - [ ] Heap sort
-    - [ ] Radix Sort
+    - [x] Radix Sort
